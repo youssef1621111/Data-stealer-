@@ -1,4 +1,4 @@
-Windows Firefox data stealer using rubber ducky
+.Windows Firefox data stealer using rubber ducky
 
 Windows Firefox data stealer
 
